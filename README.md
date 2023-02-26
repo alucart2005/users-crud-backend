@@ -1,6 +1,10 @@
 # users-crud-backend
 This code is all about managing user data through a RESTful API.
 
+I am truly passionate about Node.js, Express, Sequelize, and JavaScript! These technologies have enabled me to create efficient and scalable web applications that meet the most demanding user needs. With Express, I can easily define routes and handle HTTP requests. Thanks to Sequelize, interacting with the database has become a breeze, and JavaScript provides the power and versatility to build amazing web applications.
+
+The code I have here is a perfect example of how these technologies can help me create RESTful APIs that perform CRUD operations on user databases. By using these technologies, I can build fast, secure, and scalable web applications that can handle complex business requirements. So come and join me in the amazing world of Node.js, Express, Sequelize, and JavaScript and build your next big application with ease!
+
 ## Author ✍
 
 **NAPOLEON ANAYA ROMERO**
