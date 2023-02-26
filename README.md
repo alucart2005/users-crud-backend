@@ -20,7 +20,7 @@ The code I have here is a perfect example of how these technologies can help me 
 - [https://documenter.getpostman.com/view/26024686/2s93CPrXod](https://documenter.getpostman.com/view/26024686/2s93CPrXod)
 - 
  
-![..](https://raw.githubusercontent.com/alucart2005/Drinks-and-Shots-ver-2.0/Drinks-and-Shots-ver-2.0/src/assets/error-netlyfi.png)
+![..](https://github.com/alucart2005/users-crud-backend/blob/main/src/public/2-nodejs.png)
 
 
 ## To install
