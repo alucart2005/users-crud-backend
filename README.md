@@ -16,7 +16,7 @@ The code I have here is a perfect example of how these technologies can help me 
 
 ## See live example
 
-- [https://users-crud-npd6.onrender.com](https://drinks-and-shots-ver2.netlify.app/)
+- [https://users-crud-npd6.onrender.com](https://users-crud-npd6.onrender.com)
 - [https://documenter.getpostman.com/view/26024686/2s93CPrXod](https://documenter.getpostman.com/view/26024686/2s93CPrXod)
 - 
  
